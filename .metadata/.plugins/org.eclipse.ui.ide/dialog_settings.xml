@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\jjyou\eclipse-workspace\20_jdbc"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\19_jdbc"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\18_thread"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\17_network"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\15_collection"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\16_io"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\14_generic"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\11_interface"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\13_api"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\12_exception"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\09_access_modifier"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\08_inheritance"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\10_polymorphism"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\07_oop"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\06_class"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\05_array"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\04_control"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\03_random"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\02_input"/>
+			<item value="C:\Users\jjyou\eclipse-workspace\01_basic"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,31 @@
+접근 제어자 (access modifier)
+
+1. 클래스 내부의 불필요한 정보는 숨기고, 필요한 정보만 노출시킴
+    - 불필요한 정보: 필드(field)
+    - 필요한 정보 : 생성자(constructor), 메소드 (method)
+2. 정보 노출 여부의 결정은 접근 제어자를 통함
+3. 접근 제어자 종류 - private, public 가장 많이 사용함
+   1) private: 동일 클래스에서만 접근 가능 (공개 불필요한 정보)
+   2) default: 동일 패키지에서만 접근 가능
+   3) protected: 동일 패키지 + 다른 패키지의 상속 관계 클래스에서만 접근 가능
+   4) public: 어디서든 접근 가능 (공개 필요한 정보)
+   
+   필드: private  메소드(w/ 생성자): public 처리
+   
+   
+   
+Getters and Setters
+
+1. Field를 private 처리하면 외부에서 field에 접근 불가
+  	 ㄴ 외부에 필드 수정, 읽기 불가
+2. 클래스 외부에서 field 수정을 원하면 setter 이용
+3. 클래스 외부에서 읽기가 하고 싶은 경우 getter를 이용함
+4. setter 형식
+	public void set필드이름(매개변수){
+		this.필드 = 매개변수;
+	}
+	
+5. getter 형식
+	public 결과타입 get필드이름(){
+		return 필드;
+	}
